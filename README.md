@@ -4,9 +4,11 @@ STEP 1
 Go to: https://cloud.vocon-it.com/products
 
 STEP 2 
+
 Sign up with github or google
 
 STEP3
+
 scroll down to Ubuntu Deluxe @ Kasm,
 
 click on it
